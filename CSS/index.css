@@ -1367,6 +1367,16 @@
     }
 
 
+    .main .even {
+        margin-top: 50px;
+        margin-bottom: 50px;
+
+    }
+
+    .main .odd {
+        margin-top: 100px;
+    }
+
 
 
 
